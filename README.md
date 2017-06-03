@@ -1,6 +1,6 @@
 # 在多页面项目下使用 Webpack + Vue
-#start
-##vue-cli
+# start
+## vue-cli
 <b>init project</b>
 ```
 $ npm install -g vue-cli
@@ -8,7 +8,7 @@ $ vue init Plortinus/vue-multiple-pages new-project
 $ cd new-project
 $ npm install
 ```
-##常用命令
+## 常用命令
 ```
 # 开发运行
 $ npm run dev
